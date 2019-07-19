@@ -2,7 +2,7 @@
 
 Site Hosted : https://www.selus.cf 
 
-The wordpress and hosting configuration added some extra time on top of my 90 minutes allotted so with that being said I 
+Powering the site with wordpress and hosting configuration added some extra time on top of my 90 minutes allotted so with that being said I 
 took your word in the email and didn't really look to develop content further and get it in before the end of the workday today. 
 
 If I had more time I would've either went forth and make my wordpress site compatible with bootstrap (or just used that entirely) 
